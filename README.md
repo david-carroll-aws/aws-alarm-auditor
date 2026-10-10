@@ -3,8 +3,6 @@ CloudWatch alarms can silently add cost to monthly bills if not correctly manage
 
 A serverless auditor that scans every CloudWatch alarm in an AWS account and flags the ones that are **silent**, **orphaned**, **stale**, or **duplicated** — with a health score and a monthly cost estimate.
 
-View the alarm auditor in action at davidcarroll.cloud
-
 Read-only by design. Never modifies the account.
 
 Watch it it action here https://davidcarroll.cloud/index.html?service=alarmaudit
