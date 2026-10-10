@@ -7,7 +7,7 @@ View the alarm auditor in action at davidcarroll.cloud
 
 Read-only by design. Never modifies the account.
 
-Watch it it action here http://davidcarroll.cloud/index.html?service=alarmaudit
+Watch it it action here davidcarroll.cloud/index.html?service=alarmaudit
 
 <img width="1318" height="584" alt="image" src="https://github.com/user-attachments/assets/6b397ff2-1cc5-4ceb-b431-c43e91e95ddd" />
 
